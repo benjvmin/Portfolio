@@ -42,7 +42,7 @@
 .user-image {
     width: 75px;
     height: 75px;
-    background-image: url(../Images/blog-image.jpg);
+    background-image: url(../images/blog-image.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
